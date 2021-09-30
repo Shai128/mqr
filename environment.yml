@@ -1,0 +1,45 @@
+name: MQR
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - cudatoolkit
+  - cython
+  - ffmpeg=4.2.2 # version 4.3 doesn't work with x264 through gym.Monitor
+  - freetype
+  - graphviz
+  - ipython
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - networkx
+  - nltk # for torchtext SST dataset
+  - nodejs
+  - numpy
+  - numba
+  - opencv
+  - pandas
+  - pillow
+  - pytest
+  - pytest-cov
+  - pytest-xdist
+  - python-graphviz # for graphviz on Windows
+  - python=3.8.6
+  - pytorch=1.9.0
+  - rise
+  - scikit-learn
+  - scipy
+  - spacy-model-en_core_web_sm=2.3
+  - spacy=2.3
+  - swig # for box2d on Windows
+  - torchtext
+  - torchvision
+  - tqdm
+  - six
+  - multiprocess
+  - pip
+  - k_means_constrained
+  - shapely
+
+    
