@@ -2,7 +2,7 @@
 
 An important factor to guarantee a responsible use of data-driven systems is that we should be able to communicate their uncertainty to decision makers. This can be accomplished by constructing predictive regions, which provide an intuitive measure of the limits of predictive performance.
 
-This package contains a Python implementation of Calibrated Multiple-Output Quantile Regression with Representation Learning [1] methodology for constructing distribution-free predictive regions. 
+This package contains a Python implementation of Spherically Transformed DQR (ST DQR) [1] methodology for constructing distribution-free predictive regions. 
 
 # Calibrated Multiple-Output Quantile Regression with Representation Learning [1]
 
