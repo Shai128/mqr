@@ -40,7 +40,7 @@ git clone https://github.com/shai128/mqr.git
 ### ST DQR
 
 Please refer to [synthetic_example.ipynb](synthetic_example.ipynb) for basic usage. 
-Comparisons to competitive methods and can be found in [display results.ipynb](display results.ipynb).
+Comparisons to competitive methods and can be found in [display_results.ipynb](display_results.ipynb).
 
 ## Reproducible Research
 
